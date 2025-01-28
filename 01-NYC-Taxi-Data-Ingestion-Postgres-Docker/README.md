@@ -45,7 +45,7 @@ Count trips by distance segmentation for October 2019:
 4. 7-10 miles  
 5. Over 10 miles  
 
-**Answer: `question3.sql`**  
+**Answer: [question3.sql](./question3.sql)**  
 `104,802; 198,924; 109,603; 27,678; 35,189`
 
 ---
@@ -53,7 +53,7 @@ Count trips by distance segmentation for October 2019:
 ### **Question 4: Longest Trip for Each Day**  
 Find the pickup day with the longest trip distance (use pickup time for calculations).  
 
-**Answer: `question4.sql`**  
+**Answer: [question4.sql](./question4.sql)**  
 - Longest trip occurred on: `2019-10-31`
 
 ---
@@ -61,7 +61,7 @@ Find the pickup day with the longest trip distance (use pickup time for calculat
 ### **Question 5: Three Biggest Pickup Zones**  
 Identify the top 3 pickup locations with total amounts exceeding 13,000 on `2019-10-18`.  
 
-**Answer: `question5.sql`**  
+**Answer: [question5.sql](./question5.sql)**  
 - Top pickup zones: `East Harlem North, East Harlem South, Morningside Heights`
 
 ---
@@ -69,7 +69,7 @@ Identify the top 3 pickup locations with total amounts exceeding 13,000 on `2019
 ### **Question 6: Largest Tip**  
 For passengers picked up in **East Harlem North**, determine the drop-off zone with the largest tip.  
 
-**Answer: `question6.sql`**  
+**Answer: [question6.sql](./question6.sql)**  
 - Drop-off zone with the largest tip: `JFK Airport`
 
 ---
@@ -79,7 +79,7 @@ For passengers picked up in **East Harlem North**, determine the drop-off zone w
 I used Terraform to set up infrastructure on Google Cloud Platform (GCP):  
 
 1. Installed Terraform on my environment.  
-2. Cloned and customized the course files from the [Terraform section](../../../01-docker-terraform/1_terraform_gcp/terraform).  
+2. Cloned and customized the course files from the [Terraform section](#).  
 3. Created a GCP Bucket and a BigQuery dataset as required.  
 
 ---

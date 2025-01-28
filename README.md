@@ -7,7 +7,7 @@ Welcome to my **Data Engineering Zoomcamp Homework Repository**! This repository
 The repository is organized into folders for each homework assignment. Each folder includes the solutions for the respective tasks, along with a dedicated README explaining the approach.
 
 ```
-data-engineering-zoomcamp-homework/
+DEZoomCamp2025/
 │
 ├── 01-NYC-Taxi-Data-Ingestion-Postgres-Docker/  # Solutions for Module 1: Containerization and Infrastructure as Code
 ├── homework-2/  # Solutions for Module 2: Workflow Orchestration
@@ -49,6 +49,6 @@ Throughout the Zoomcamp, I’ll be working with the following technologies:
 
 ## 🤝 Let’s Connect
 
-If you have any feedback or want to discuss data engineering, feel free to connect with me on [LinkedIn](https://www.linkedin.com/julius-odunuga) or open an issue in this repository.
+If you have any feedback or want to discuss data engineering, feel free to connect with me on [LinkedIn](https://linkedin.com/in/julius-odunuga) or open an issue in this repository.
 
 ---
