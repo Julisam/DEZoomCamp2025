@@ -10,7 +10,7 @@ The repository is organized into folders for each homework assignment. Each fold
 DEZoomCamp2025/
 │
 ├── 01-NYC-Taxi-Data-Ingestion-Postgres-Docker/  # Solutions for Module 1: Containerization and Infrastructure as Code
-├── homework-2/  # Solutions for Module 2: Workflow Orchestration
+├── 02-Workflow-Orchestration-with-Kestra/  # Solutions for Module 2: Workflow Orchestration
 ├── homework-3/  # Solutions for Module 3: Data Warehousing
 │
 ├── README.md    # Overview of the repository
@@ -31,7 +31,16 @@ Here’s a brief overview of what’s covered in each module:
 
 ### 2️⃣ **Homework 2: Workflow Orchestration**
 - Topics: Data pipelines, orchestration with Kestra
-- Folder: coming-soon
+- Folder: [02-Workflow-Orchestration-with-Kestra](./02-Workflow-Orchestration-with-Kestra)
+- Key Tasks:
+  - Automating data workflows with Kestra
+  - Scheduling & backfilling data pipelines
+  - Extracting and loading NYC taxi data into BigQuery
+
+### 2️⃣ **Homework 3: Data Warehouse**
+- Topics: 
+- Folder: [03-Data-Warehousing-with-BigQuery](./03-Data-Warehousing-with-BigQuery)
+
 
 ---
 
