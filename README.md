@@ -37,10 +37,16 @@ Here’s a brief overview of what’s covered in each module:
   - Scheduling & backfilling data pipelines
   - Extracting and loading NYC taxi data into BigQuery
 
-### 2️⃣ **Homework 3: Data Warehouse**
-- Topics: 
+### 3️⃣ **Homework 3: Data Warehouse**
+- Topics: Data Warehousing, BigQuery Optimization, Partitioning & Clustering  
 - Folder: [03-Data-Warehousing-with-BigQuery](./03-Data-Warehousing-with-BigQuery)
-
+- Key Tasks:
+  - Creating External & Materialized Tables in BigQuery  
+  - Understanding partitioning vs clustering for performance optimization  
+  - Running analytical queries on NYC Taxi data (Jan–June 2024)  
+  - Measuring query cost & efficiency in BigQuery  
+  - Implementing ML models in SQL** using **BigQuery ML  
+  - Deploying an ML model via Docker & TensorFlow Serving
 
 ---
 
