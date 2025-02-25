@@ -1,6 +1,5 @@
 ## Homework 3: 03-Data-Warehousing-with-BigQuery
 
-
 Welcome to **Week 3** of the **Data Engineering Zoomcamp**! This week, we explored **Data Warehousing** concepts and **BigQuery** best practices. The homework involved working with **Yellow Taxi Trip Records (Jan–June 2024)**, focusing on **external tables, query performance, partitioning, clustering, and cost optimization**.
 
 ---

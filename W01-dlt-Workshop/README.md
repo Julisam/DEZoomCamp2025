@@ -63,40 +63,8 @@ with pipeline.sql_client() as client:
 
 ---
 
-## **📩 Submission & Resources**  
-
-📌 **Submission Form:** [🔗 Submit Here](https://courses.datatalks.club/de-zoomcamp-2025/homework/workshop1)  
-📌 **GitHub Repository:** Include a link to your GitHub repo containing all code & SQL queries.  
-
----
-
 ## **🛠 Tools & Technologies Used**  
 ✅ **dlt** – Automating data ingestion  
 ✅ **DuckDB** – Storing & querying data locally  
 ✅ **Python** – Extracting, transforming, and analyzing data  
 ✅ **SQL** – Running analytical queries  
-
----
-
-## **📂 Repository Structure**  
-```
-workshop-data-ingestion-dlt/
-│
-├── ingestion/
-│   ├── extract_nyc_taxi_data.py
-│   ├── run_pipeline.py
-│
-├── queries/
-│   ├── query_tables_created.sql
-│   ├── query_total_records.sql
-│   ├── query_trip_duration.sql
-│
-├── README.md  # This file
-```
-
----
-
-## **📩 Questions or Feedback?**  
-If you have any questions or insights, feel free to connect or open an issue in this repository. 🚀  
-
-**⭐ If you found this helpful, don’t forget to star the repo! ⭐**
